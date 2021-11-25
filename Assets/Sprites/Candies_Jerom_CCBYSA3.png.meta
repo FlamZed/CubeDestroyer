@@ -1,0 +1,1908 @@
+fileFormatVersion: 2
+guid: c816b4e453ee0824081c0fc69d5035ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8200753063566766969
+    second: Candies_Jerom_CCBYSA3_0
+  - first:
+      213: -7707465062274031902
+    second: Candies_Jerom_CCBYSA3_1
+  - first:
+      213: -3341713634967663010
+    second: Candies_Jerom_CCBYSA3_2
+  - first:
+      213: 744376705736303324
+    second: Candies_Jerom_CCBYSA3_3
+  - first:
+      213: 2546483071237738640
+    second: Candies_Jerom_CCBYSA3_4
+  - first:
+      213: -5682091620870042725
+    second: Candies_Jerom_CCBYSA3_5
+  - first:
+      213: -3577818998671655312
+    second: Candies_Jerom_CCBYSA3_6
+  - first:
+      213: 1026480932786116380
+    second: Candies_Jerom_CCBYSA3_7
+  - first:
+      213: -3294949036715978871
+    second: Candies_Jerom_CCBYSA3_8
+  - first:
+      213: 5185095977495115759
+    second: Candies_Jerom_CCBYSA3_9
+  - first:
+      213: 8438619614108475959
+    second: Candies_Jerom_CCBYSA3_10
+  - first:
+      213: -2603809038698049626
+    second: Candies_Jerom_CCBYSA3_11
+  - first:
+      213: 1904495456834232225
+    second: Candies_Jerom_CCBYSA3_12
+  - first:
+      213: 7926427103531628076
+    second: Candies_Jerom_CCBYSA3_13
+  - first:
+      213: -6727120835001465942
+    second: Candies_Jerom_CCBYSA3_14
+  - first:
+      213: -3094767024573165185
+    second: Candies_Jerom_CCBYSA3_15
+  - first:
+      213: -885978619517566656
+    second: Candies_Jerom_CCBYSA3_16
+  - first:
+      213: 4841526832660062627
+    second: Candies_Jerom_CCBYSA3_17
+  - first:
+      213: 5147749277284378138
+    second: Candies_Jerom_CCBYSA3_18
+  - first:
+      213: 4030215585061680484
+    second: Candies_Jerom_CCBYSA3_19
+  - first:
+      213: -9022215443827216769
+    second: Candies_Jerom_CCBYSA3_20
+  - first:
+      213: 8268811758730429870
+    second: Candies_Jerom_CCBYSA3_21
+  - first:
+      213: 2350774631231994810
+    second: Candies_Jerom_CCBYSA3_22
+  - first:
+      213: 2369436144379065331
+    second: Candies_Jerom_CCBYSA3_23
+  - first:
+      213: -3198346946544867050
+    second: Candies_Jerom_CCBYSA3_24
+  - first:
+      213: 7526357791358515219
+    second: Candies_Jerom_CCBYSA3_25
+  - first:
+      213: 4733036294067590332
+    second: Candies_Jerom_CCBYSA3_26
+  - first:
+      213: -2690318226489058920
+    second: Candies_Jerom_CCBYSA3_27
+  - first:
+      213: 7354861878588220329
+    second: Candies_Jerom_CCBYSA3_28
+  - first:
+      213: -622552791202627099
+    second: Candies_Jerom_CCBYSA3_29
+  - first:
+      213: -8977304704921552493
+    second: Candies_Jerom_CCBYSA3_30
+  - first:
+      213: 8579432892286224117
+    second: Candies_Jerom_CCBYSA3_31
+  - first:
+      213: 8371561339461171880
+    second: Candies_Jerom_CCBYSA3_32
+  - first:
+      213: -470517028041014135
+    second: Candies_Jerom_CCBYSA3_33
+  - first:
+      213: 186932763026760313
+    second: Candies_Jerom_CCBYSA3_34
+  - first:
+      213: 6052219309616980090
+    second: Candies_Jerom_CCBYSA3_35
+  - first:
+      213: 5533111921766144802
+    second: Candies_Jerom_CCBYSA3_36
+  - first:
+      213: -7715014887981459908
+    second: Candies_Jerom_CCBYSA3_37
+  - first:
+      213: 8808552696071751822
+    second: Candies_Jerom_CCBYSA3_38
+  - first:
+      213: -9103849220599652387
+    second: Candies_Jerom_CCBYSA3_39
+  - first:
+      213: 7652549357484599159
+    second: Candies_Jerom_CCBYSA3_40
+  - first:
+      213: 8534952137141175706
+    second: Candies_Jerom_CCBYSA3_41
+  - first:
+      213: 8879003797461219388
+    second: Candies_Jerom_CCBYSA3_42
+  - first:
+      213: -7774635432963158729
+    second: Candies_Jerom_CCBYSA3_43
+  - first:
+      213: 8682235180863435704
+    second: Candies_Jerom_CCBYSA3_44
+  - first:
+      213: 6558405576784563876
+    second: Candies_Jerom_CCBYSA3_45
+  - first:
+      213: -4457905670618631205
+    second: Candies_Jerom_CCBYSA3_46
+  - first:
+      213: 3412458316194089193
+    second: Candies_Jerom_CCBYSA3_47
+  - first:
+      213: 3968064555513565542
+    second: Candies_Jerom_CCBYSA3_48
+  - first:
+      213: 7942723104607886036
+    second: Candies_Jerom_CCBYSA3_49
+  - first:
+      213: -5722756116493878844
+    second: Candies_Jerom_CCBYSA3_50
+  - first:
+      213: -1498376557172915768
+    second: Candies_Jerom_CCBYSA3_51
+  - first:
+      213: -6584523071241173084
+    second: Candies_Jerom_CCBYSA3_52
+  - first:
+      213: -7649978645359063289
+    second: Candies_Jerom_CCBYSA3_53
+  - first:
+      213: -5117754338235142624
+    second: Candies_Jerom_CCBYSA3_54
+  - first:
+      213: 1469767946255524313
+    second: Candies_Jerom_CCBYSA3_55
+  - first:
+      213: -4884436373090100692
+    second: Candies_Jerom_CCBYSA3_56
+  - first:
+      213: -5941983784243791398
+    second: Candies_Jerom_CCBYSA3_57
+  - first:
+      213: -4585240461590973943
+    second: Candies_Jerom_CCBYSA3_58
+  - first:
+      213: -6703908010363682215
+    second: Candies_Jerom_CCBYSA3_59
+  - first:
+      213: 4245835595023992248
+    second: Candies_Jerom_CCBYSA3_60
+  - first:
+      213: -8320326349154873173
+    second: Candies_Jerom_CCBYSA3_61
+  - first:
+      213: 1933420535705554574
+    second: Candies_Jerom_CCBYSA3_62
+  - first:
+      213: -55970949746297323
+    second: Candies_Jerom_CCBYSA3_63
+  - first:
+      213: 170534465706344416
+    second: Candies_Jerom_CCBYSA3_64
+  - first:
+      213: -7409315538945276599
+    second: Candies_Jerom_CCBYSA3_65
+  - first:
+      213: 5345195533644335663
+    second: Candies_Jerom_CCBYSA3_66
+  - first:
+      213: 1036578044148824930
+    second: Candies_Jerom_CCBYSA3_67
+  - first:
+      213: -8548105615918567641
+    second: Candies_Jerom_CCBYSA3_68
+  - first:
+      213: 6650800629846641392
+    second: Candies_Jerom_CCBYSA3_69
+  - first:
+      213: -604863004037804280
+    second: Candies_Jerom_CCBYSA3_70
+  - first:
+      213: 6968656576928590595
+    second: Candies_Jerom_CCBYSA3_71
+  - first:
+      213: -5167592825210589372
+    second: Candies_Jerom_CCBYSA3_72
+  - first:
+      213: 8368553963539561362
+    second: Candies_Jerom_CCBYSA3_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 601
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f79c367deec170800000000000000
+      internalID: 8200753063566766969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 600
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee1c6c9c55990590800000000000000
+      internalID: -7707465062274031902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 601
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e4ca67729df91d0800000000000000
+      internalID: -3341713634967663010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 601
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ec748bae845a00800000000000000
+      internalID: 744376705736303324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 603
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090dba78cdce65320800000000000000
+      internalID: 2546483071237738640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b41dc96c72521b0800000000000000
+      internalID: -5682091620870042725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 500
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e3889a398095ec0800000000000000
+      internalID: -3577818998671655312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 501
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179d6748face3e00800000000000000
+      internalID: 1026480932786116380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 501
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f4789fe4df542d0800000000000000
+      internalID: -3294949036715978871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 503
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe737e8d15925f740800000000000000
+      internalID: 5185095977495115759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732649d44dffb1570800000000000000
+      internalID: 8438619614108475959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 400
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af837199796ddbd0800000000000000
+      internalID: -2603809038698049626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 401
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af13fc07802e6a10800000000000000
+      internalID: 1904495456834232225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 401
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26f7046473500e60800000000000000
+      internalID: 7926427103531628076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 403
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3cb9c0e3774a2a0800000000000000
+      internalID: -6727120835001465942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7159b5b9cd2d05d0800000000000000
+      internalID: -3094767024573165185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 300
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0418011c32f54b3f0800000000000000
+      internalID: -885978619517566656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 301
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1a937b00f803340800000000000000
+      internalID: 4841526832660062627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 301
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162f4991ba707740800000000000000
+      internalID: 5147749277284378138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_19
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 303
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46538dbb8b33ee730800000000000000
+      internalID: 4030215585061680484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea2a70bd6aac280800000000000000
+      internalID: -9022215443827216769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea543b90c78b0c270800000000000000
+      internalID: 8268811758730429870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 201
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb35997211af9020800000000000000
+      internalID: 2350774631231994810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 201
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37fa79e9de1e020800000000000000
+      internalID: 2369436144379065331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 203
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ecbec5603d93d0800000000000000
+      internalID: -3198346946544867050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318fa6ee88ef27860800000000000000
+      internalID: 7526357791358515219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41ee8ce6f1fa140800000000000000
+      internalID: 4733036294067590332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 101
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995c51b3d11aaad0800000000000000
+      internalID: -2690318226489058920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 101
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3205d29e7b11660800000000000000
+      internalID: 7354861878588220329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_29
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 103
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1807ae88f3c57f0800000000000000
+      internalID: -622552791202627099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 83
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39935b64fe43a6380800000000000000
+      internalID: -8977304704921552493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c50f72c4401770800000000000000
+      internalID: 8579432892286224117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 71
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf9fd0fa2cd2470800000000000000
+      internalID: 8371561339461171880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 68
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c7d281436879f0800000000000000
+      internalID: -470517028041014135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_34
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 65
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a7198b5e189200800000000000000
+      internalID: 186932763026760313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ea74656dcdf350800000000000000
+      internalID: 6052219309616980090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 59
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b99572aff89cc40800000000000000
+      internalID: 5533111921766144802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d305d5d2cee490800000000000000
+      internalID: -7715014887981459908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 49
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e888aa2e1044e3a70800000000000000
+      internalID: 8808552696071751822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 60
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd07d3e51a8a180800000000000000
+      internalID: -9103849220599652387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777630f7811533a60800000000000000
+      internalID: 7652549357484599159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c245afbd327670800000000000000
+      internalID: 8534952137141175706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 53
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38350b29ee883b70800000000000000
+      internalID: 8879003797461219388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dc018f342fa1490800000000000000
+      internalID: -7774635432963158729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_44
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b3c385ee7d7870800000000000000
+      internalID: 8682235180863435704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_45
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4f29cf13240b50800000000000000
+      internalID: 6558405576784563876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_46
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3b39c59665222c0800000000000000
+      internalID: -4457905670618631205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 38
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8839332cc7b5f20800000000000000
+      internalID: 3412458316194089193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 54
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661543580b5611730800000000000000
+      internalID: 3968064555513565542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dad07fc4983a3e60800000000000000
+      internalID: 7942723104607886036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9303ce1afa490b0800000000000000
+      internalID: -5722756116493878844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 53
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c18fe1c572b43be0800000000000000
+      internalID: -1498376557172915768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 46
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a74e4b27231f94a0800000000000000
+      internalID: -6584523071241173084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 43
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f8c0014f0d5d590800000000000000
+      internalID: -7649978645359063289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea7cd5b851af8b0800000000000000
+      internalID: -5117754338235142624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 46
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e0d2f82aa56410800000000000000
+      internalID: 1469767946255524313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a97fd5ffef63cb0800000000000000
+      internalID: -4884436373090100692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9740fea35d98da0800000000000000
+      internalID: -5941983784243791398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 41
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023f150814fd50c0800000000000000
+      internalID: -4585240461590973943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_59
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9528063fe2fe6f2a0800000000000000
+      internalID: -6703908010363682215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_60
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 37
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b54d107afc3cea30800000000000000
+      internalID: 4245835595023992248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba01d47b443488c80800000000000000
+      internalID: -8320326349154873173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ecc28cbb3e4da10800000000000000
+      internalID: 1933420535705554574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_63
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51671aeb7b6293ff0800000000000000
+      internalID: -55970949746297323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_64
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 39
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef336a613cdd5200800000000000000
+      internalID: 170534465706344416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_65
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945826806c2dc2990800000000000000
+      internalID: -7409315538945276599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a00ed8403fd2a40800000000000000
+      internalID: 5345195533644335663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb5773d3aa26e00800000000000000
+      internalID: 1036578044148824930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_68
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 34
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe6ac6b370f5980800000000000000
+      internalID: -8548105615918567641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_69
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa04f57fe36c4c50800000000000000
+      internalID: 6650800629846641392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_70
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 32
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f0d827d481b97f0800000000000000
+      internalID: -604863004037804280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_71
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 28
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba4853c34a5b060800000000000000
+      internalID: 6968656576928590595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_72
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f277d54b50948b0800000000000000
+      internalID: -5167592825210589372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candies_Jerom_CCBYSA3_73
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7678cd73132470800000000000000
+      internalID: 8368553963539561362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
