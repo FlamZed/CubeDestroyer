@@ -186,6 +186,13 @@ public class GameController : MonoBehaviour {
 				isMove = true;
 			}
 		}
+        if (Input.GetMouseButtonDown(1))
+        {
+			RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, Mathf.Infinity, layerMask);
+
+			current = hit.transform.GetComponent<TileNode>();
+			Debug.LogError(current.x + " " + current.y + " " + current.id);
+        }
 	}
 	bool IsLine(TileNode tile) // поиск совпадений по горизонтали и вертикали
 	{
@@ -193,7 +200,9 @@ public class GameController : MonoBehaviour {
 		TileNode currentNode = tile;
 		List<TileNode> tempNode = new List<TileNode>();
 
-		while (CheckNeighbor(currentNode.x, currentNode.y, currentNode.id))
+		CheckNeighbor(currentNode.x, currentNode.y, currentNode.id);
+
+		while (tempNode.Count != lines.Count)
         {
 			tempNode.Add(currentNode);
 
@@ -205,54 +214,73 @@ public class GameController : MonoBehaviour {
                     break;
                 }
             }
-        }
+			CheckNeighbor(currentNode.x, currentNode.y, currentNode.id);
+		}
 
 		return (lines.Count > 2) ? true : false;
+	}
+
+	private bool CheckTempLines(List<TileNode> temp)
+    {
+		for (int i = 0; i < lines.Count; i++)
+		{
+			if (!temp.Contains(lines[i]))
+			{
+				return false;
+			}
+		}
+		return true;
 	}
 
 	private bool CheckNeighbor(int x, int y, int id)
     {
 		var currentID = id;
-		int j = -1;
-		if (x + 1 < gridWidth && grid[x + 1, y].id == currentID)
+		bool passed = false;
+
+		var rightCombination = x + 1;
+		var leftCombination = x - 1;
+		var topCombination = y - 1;
+		var downCombination = y + 1;
+
+		if (rightCombination < gridWidth && grid[rightCombination, y].id == currentID)
 		{
-            if (!lines.Contains(grid[x + 1, y]))
+            if (!lines.Contains(grid[rightCombination, y]))
             {
-				lines.Add(grid[x + 1, y]);
-				j = 1;
+				lines.Add(grid[rightCombination, y]);
+				passed = true;
 			}
 		}
-		if (y + 1 < gridHeight && grid[x, y + 1].id == currentID)
+		if (topCombination >= 0 && grid[x, topCombination].id == currentID)
 		{
-			if (!lines.Contains(grid[x, y + 1]))
+			if (!lines.Contains(grid[x, topCombination]))
 			{
-				lines.Add(grid[x, y + 1]);
-				j = 1;
+				lines.Add(grid[x, topCombination]);
+				passed = true;
 			}
 		}
-		if (x - 1 >= 0 && grid[x - 1, y].id == currentID)
+		if (leftCombination >= 0 && grid[leftCombination, y].id == currentID)
 		{
-			if (!lines.Contains(grid[x - 1, y]))
+			if (!lines.Contains(grid[leftCombination, y]))
 			{
-				lines.Add(grid[x - 1, y]);
-				j = 1;
+				lines.Add(grid[leftCombination, y]);
+				passed = true;
 			}
 		}
-		if (y - 1 >= 0 && grid[x, y - 1].id == currentID)
+		if (downCombination < gridHeight && grid[x, downCombination].id == currentID)
 		{
-			if (!lines.Contains(grid[x, y - 1]))
+			if (!lines.Contains(grid[x, downCombination]))
 			{
-				lines.Add(grid[x, y - 1]);
-				j = 1;
+				lines.Add(grid[x, downCombination]);
+				passed = true;
 			}
 		}
 
-		if (j > 0)
-		{
-			if (!lines.Contains(grid[x, y]))
-				lines.Add(grid[x, y]);
+		if (!lines.Contains(grid[x, y]))
+			lines.Add(grid[x, y]);
+
+		if (passed)
 			return true;
-		}
+
 		return false;
 	}
 
