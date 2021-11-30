@@ -152,9 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5337ade644bd8014d891c3f8ddfe4d58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mode: 0
-  speed: 6
-  destroyTimeout: 0.1
+  speed: 15
   layerMask:
     serializedVersion: 2
     m_Bits: 2
@@ -163,8 +161,8 @@ MonoBehaviour:
   - {fileID: -3341713634967663010, guid: c816b4e453ee0824081c0fc69d5035ac, type: 3}
   - {fileID: 744376705736303324, guid: c816b4e453ee0824081c0fc69d5035ac, type: 3}
   - {fileID: 2546483071237738640, guid: c816b4e453ee0824081c0fc69d5035ac, type: 3}
-  gridWidth: 5
-  gridHeight: 8
+  gridWidth: 6
+  gridHeight: 9
   sampleObject: {fileID: 114386743660215114, guid: b6a04130123deb3469fe5a304262bd21, type: 3}
   sampleSize: 1
 --- !u!4 &82281866
