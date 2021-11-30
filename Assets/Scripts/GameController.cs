@@ -29,9 +29,9 @@ public class GameController : MonoBehaviour {
 	{
 		MoveNodes();
 
-		//if (isMove) return;
+        if (isMove) return;
 
-		Control();
+        Control();
 	}
 
 	private void SetupField() // стартовые установки, подготовка игрового поля
@@ -71,7 +71,7 @@ public class GameController : MonoBehaviour {
 
     private void MoveNodes() // передвижение узлов и заполнение поля, после проверки совпадений
     {
-        //if (!isMove) return;
+        if (!isMove) return;
 
         for (int y = 0; y < gridHeight; y++)
         {
